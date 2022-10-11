@@ -1,7 +1,7 @@
 import openpyxl
 
 
-class HomePageData:
+class Home1PageData:
 
     test_HomePage_data = [{"firstname":"Rahul","lastname":"shetty","gender":"Male"}, {"firstname":"Anshika", "lastname":"shetty", "gender":"Female"}]
 
