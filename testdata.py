@@ -4,7 +4,7 @@ renewal_se_customers1 = [
     ("1000735014", "Koncy Carlsson", "8523", "1", "DAD735999100053227983")  # No discounts, NORM, rtc, asserts
     ]
 
-renewal_se_sme_customers = [
+renewal_se_sme_customers1 = [
     # CustomerID, Name, PIN, AgreementChoice, premiseId
     ("1000250385", "a", "6197", "1", "OGO735999114000009065"),
     ("1000023358", "b", "7546", "1", "KAB735999100056661975"), 
