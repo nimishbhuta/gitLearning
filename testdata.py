@@ -1,4 +1,4 @@
-renewal_se_customers = [
+renewal_se_customers1 = [
     # CustomerID, Name, PIN, AgreementChoice. premiseId
     ("1000449399", "Lena Karlsson", "5796", "1", "RSK735999100002613263"),  # Discounts, 3ÅR_BR, rtc, asserts
     ("1000735014", "Koncy Carlsson", "8523", "1", "DAD735999100053227983")  # No discounts, NORM, rtc, asserts
